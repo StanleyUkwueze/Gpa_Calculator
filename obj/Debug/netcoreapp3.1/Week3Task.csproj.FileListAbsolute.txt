@@ -1,0 +1,14 @@
+C:\Users\decag\source\repos\Week3Task\Week3Task\bin\Debug\netcoreapp3.1\Week3Task.exe
+C:\Users\decag\source\repos\Week3Task\Week3Task\bin\Debug\netcoreapp3.1\Week3Task.deps.json
+C:\Users\decag\source\repos\Week3Task\Week3Task\bin\Debug\netcoreapp3.1\Week3Task.runtimeconfig.json
+C:\Users\decag\source\repos\Week3Task\Week3Task\bin\Debug\netcoreapp3.1\Week3Task.runtimeconfig.dev.json
+C:\Users\decag\source\repos\Week3Task\Week3Task\bin\Debug\netcoreapp3.1\Week3Task.dll
+C:\Users\decag\source\repos\Week3Task\Week3Task\bin\Debug\netcoreapp3.1\Week3Task.pdb
+C:\Users\decag\source\repos\Week3Task\Week3Task\obj\Debug\netcoreapp3.1\Week3Task.csproj.AssemblyReference.cache
+C:\Users\decag\source\repos\Week3Task\Week3Task\obj\Debug\netcoreapp3.1\Week3Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\decag\source\repos\Week3Task\Week3Task\obj\Debug\netcoreapp3.1\Week3Task.AssemblyInfoInputs.cache
+C:\Users\decag\source\repos\Week3Task\Week3Task\obj\Debug\netcoreapp3.1\Week3Task.AssemblyInfo.cs
+C:\Users\decag\source\repos\Week3Task\Week3Task\obj\Debug\netcoreapp3.1\Week3Task.csproj.CoreCompileInputs.cache
+C:\Users\decag\source\repos\Week3Task\Week3Task\obj\Debug\netcoreapp3.1\Week3Task.dll
+C:\Users\decag\source\repos\Week3Task\Week3Task\obj\Debug\netcoreapp3.1\Week3Task.pdb
+C:\Users\decag\source\repos\Week3Task\Week3Task\obj\Debug\netcoreapp3.1\Week3Task.genruntimeconfig.cache
