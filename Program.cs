@@ -63,7 +63,7 @@ namespace Week3Task
 
             DisplayGpa(courseList);
             Console.WriteLine();
-            Console.WriteLine( $"Your Gpa is {Calculations.qualityPointCalculation(courseList):N3} to three decimal places"); ;
+            Console.WriteLine( $"Your Gpa is {Calculations.QualityPointCalculation(courseList):N3} to three decimal places"); ;
          }
 
         static void DisplayGpa(List<Course> courseList)
@@ -77,10 +77,10 @@ namespace Week3Task
 
             foreach (var item in courseList)
             {
-                Console.WriteLine($"|{item.CourseName, -2}  {item.courseCode,-6}| {item.CourseUnit,-11}| { Calculations.Grade(item.Score),-6}| { Calculations.GradePoint(Calculations.Grade(item.Score)),-10}|");
+                Console.WriteLine($"|{item.CourseName, -6}  {item.courseCode,-6}| {item.CourseUnit,-11}| { Calculations.Grade(item.Score),-6}| { Calculations.GradePoint(Calculations.Grade(item.Score)),-10}|");
 
             }
-            Console.WriteLine($"|================================================|");
+            Console.WriteLine($"|===============================================|");
 
         }
 

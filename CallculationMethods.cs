@@ -66,7 +66,7 @@ namespace Week3Task
 
         //quality point calculations...
         
-        public static decimal qualityPointCalculation(List<Course> course)
+        public static decimal QualityPointCalculation(List<Course> course)
 
         {
             int totalCourseUnit = 0;
